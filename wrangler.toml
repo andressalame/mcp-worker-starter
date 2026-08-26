@@ -1,0 +1,11 @@
+name = "mcp-worker-starter"
+main = "src/index.ts"
+compatibility_date = "2026-08-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Uncomment to enable the hourly rate limit.
+# [[kv_namespaces]]
+# binding = "RATE_LIMIT"
+# id = "your-kv-namespace-id"
+
+# Set the auth token with:  npx wrangler secret put MCP_TOKEN
