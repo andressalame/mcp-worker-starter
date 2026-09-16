@@ -12,9 +12,9 @@
   "author": "Andrés Salamé-Córdova Reina",
   "license": "MIT",
   "devDependencies": {
-    "@cloudflare/vitest-pool-workers": "^0.5.0",
+    "@cloudflare/vitest-pool-workers": "^0.22.0",
     "typescript": "^5.6.0",
     "vitest": "^2.1.0",
-    "wrangler": "^3.80.0"
+    "wrangler": "^4.132.0"
   }
 }
